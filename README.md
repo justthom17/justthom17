@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Just a guy trying to figure out his place in the world
 <!--
 **justthom17/justthom17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
